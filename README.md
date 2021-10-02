@@ -29,7 +29,7 @@ or
 3. Unzip and replace `chrome_elf.dll` and `config.ini` 
 
 or
-1. Download official client [Spotify](https://www.spotify.com/download/windows/
+1. Download official client [Spotify](https://www.spotify.com/download/windows/)
 2. Download SpotCrack from [Releases](https://github.com/Sn8ow/SpotCrack/releases/tag/2021.0.1.22)
 3. Unrar, unzip file
 4. Make folder named ```SpotCrack```
