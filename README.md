@@ -22,12 +22,6 @@
 ### Installation/Update:
 * Just download and run [SpotCrackInstaller.bat](https://github.com/Sn8ow/SpotCrack/releases/tag/2021.0.1.22)
 
-or 
-
-1. Browse to your Spotify installation folder `%APPDATA%\Spotify`
-2. Download `chrome_elf.zip` from [releases](https://github.com/mrpond/BlockTheSpot/releases)
-3. Unzip and replace `chrome_elf.dll` and `config.ini` 
-
 or
 1. Download official client [Spotify](https://www.spotify.com/download/windows/)
 2. Download SpotCrack from [Releases](https://github.com/Sn8ow/SpotCrack/releases/tag/2021.0.1.22)
